@@ -17,7 +17,6 @@ def selection (num)
      "HAM HAM HAM IN MY TUMMY"
   end
 end
-binding.pry
 
 def runner
   prompt_user
